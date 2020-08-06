@@ -1,0 +1,3 @@
+pip install update
+pip install upgrade
+pip install telethon async_generator colorama bs4 requests asyncio faker
